@@ -1,0 +1,9 @@
+[submodule "AlienGame-OpenGL"]
+	path = AlienGame-OpenGL
+	url = https://github.com/elifnurafsar/AlienGame-OpenGL.git
+[submodule "ElifNurAFSARAssg2-Windows"]
+	path = ElifNurAFSARAssg2-Windows
+	url = https://github.com/elifnurafsar/ElifNurAFSARAssg2-Windows.git
+[submodule "ElifNurAFSARAssg3"]
+	path = ElifNurAFSARAssg3
+	url = https://github.com/elifnurafsar/ElifNurAFSARAssg3.git
